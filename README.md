@@ -1,4 +1,4 @@
-# Data Visualisation Coursework - COMP1800
+# Data Visualisation Project
 
 This repository contains my MSc Data Science coursework for the COMP1800 Data Visualisation module. The project focuses on visual exploration and analysis of customer data from ChrisCo, a fictional cinema chain, using Python visualisation techniques.
 
