@@ -2,6 +2,9 @@
 
 This repository contains my MSc Data Science coursework for the COMP1800 Data Visualisation module. The project focuses on visual exploration and analysis of customer data from ChrisCo, a fictional cinema chain, using Python visualisation techniques.
 
+**Disclaimer**
+This repository contains code and data for educational purposes as part of my coursework. Please do not copy or reuse this code for your own coursework or projects without permission.
+
 ## Project Overview
 The goal of this coursework is to explore ChrisCo’s customer data and identify insights related to visitor demographics, cinema capacity, spending patterns, and seasonal trends. This analysis includes static and interactive visualisations to facilitate a deeper understanding of high, medium, and low-volume cinemas across various metrics.
 
@@ -26,10 +29,6 @@ The goal of this coursework is to explore ChrisCo’s customer data and identify
    - Identifying high, medium, and low-volume cinemas and analysing their performance.
    - Detecting seasonal trends, outliers, and correlations among various cinema metrics.
 
-## Usage Instructions
-1. **Clone the Repository**: Download the repository files to your local machine.
-2. **Run the Notebook**: Open `data_visualisation.ipynb` in Jupyter Notebook or JupyterLab. Make sure to have required libraries installed to view interactive plots.
-3. **Review the Report**: Open `data_visualisation_report.pdf` to get an overview of findings and visualisation justifications.
 
 ## Results
 The analysis provides ChrisCo with insights into customer behaviour and cinema performance. Trends in seasonal visits, spending, and demographic patterns are highlighted to assist in strategic planning and operational improvements.
