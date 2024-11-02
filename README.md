@@ -2,7 +2,7 @@
 
 This repository contains my MSc Data Science coursework for the COMP1800 Data Visualisation module. The project focuses on visual exploration and analysis of customer data from ChrisCo, a fictional cinema chain, using Python visualisation techniques.
 
-**Disclaimer**
+## **Disclaimer**
 This repository contains code and data for educational purposes as part of my coursework. Please do not copy or reuse this code for your own coursework or projects without permission.
 
 ## Project Overview
